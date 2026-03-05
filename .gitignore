@@ -1,0 +1,21 @@
+# Microchip/Atmel Studio
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.lss
+*.map
+*.srec
+*.exe
+
+# Proteus
+*.pwi
+*.temp
+*.bak
+Last\ Loaded\ *
+
+# OS junk
+.DS_Store
+Thumbs.db
